@@ -1,4 +1,9 @@
-package MainPackage;
+package FactoryPackage;
+
+import CarroPackage.Carro;
+import CarroPackage.CarroAutomatico;
+import MotoPackage.MotoAutomatica;
+import MotoPackage.Moto;
 
 public class FactoryAutomatico implements AbstractFactory {
     @Override

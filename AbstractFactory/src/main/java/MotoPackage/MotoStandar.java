@@ -1,4 +1,4 @@
-package MainPackage;
+package MotoPackage;
 
 public class MotoStandar extends Moto {
     public MotoStandar(String a, String b){

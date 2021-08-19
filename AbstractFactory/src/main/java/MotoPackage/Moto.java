@@ -1,10 +1,10 @@
-package MainPackage;
+package MotoPackage;
 
-public class Carro {
+public class Moto {
     private String Modelo;
     private String Color;
 
-    public Carro(String Modelo, String Color) {
+    public Moto(String Modelo, String Color) {
         this.Modelo = Modelo;
         this.Color = Color;
     }
@@ -23,6 +23,5 @@ public class Carro {
 
     public void setColor(String Color) {
         this.Color = Color;
-    }
-    
+    }    
 }

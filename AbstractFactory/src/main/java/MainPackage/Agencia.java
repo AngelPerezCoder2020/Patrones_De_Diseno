@@ -1,4 +1,7 @@
 package MainPackage;
+import FactoryPackage.AbstractFactory;
+import FactoryPackage.FactoryStandar;
+import FactoryPackage.FactoryAutomatico;
 import java.util.Scanner;
 
 public class Agencia {

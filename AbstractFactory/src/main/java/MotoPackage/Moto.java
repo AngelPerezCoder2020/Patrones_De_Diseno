@@ -1,6 +1,6 @@
 package MotoPackage;
 
-public class Moto {
+public abstract class Moto {
     private String Modelo;
     private String Color;
 

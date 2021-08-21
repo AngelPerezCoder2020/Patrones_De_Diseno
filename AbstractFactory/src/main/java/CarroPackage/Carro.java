@@ -1,6 +1,6 @@
 package CarroPackage;
 
-public class Carro {
+public abstract class Carro {
     private String Modelo;
     private String Color;
 
